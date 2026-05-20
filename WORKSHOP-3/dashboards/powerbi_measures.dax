@@ -1,0 +1,47 @@
+Total Predictions =
+COUNTROWS('pbi_predictions_detail')
+
+Average Prediction Error =
+AVERAGE('pbi_predictions_detail'[prediction_error])
+
+Average Actual Score =
+AVERAGE('pbi_predictions_detail'[actual_score])
+
+Average Predicted Score =
+AVERAGE('pbi_predictions_detail'[predicted_score])
+
+Prediction Bias =
+[Average Predicted Score] - [Average Actual Score]
+
+Low Error Predictions =
+CALCULATE(
+    [Total Predictions],
+    'pbi_predictions_detail'[error_band] = "Low error"
+)
+
+Medium Error Predictions =
+CALCULATE(
+    [Total Predictions],
+    'pbi_predictions_detail'[error_band] = "Medium error"
+)
+
+High Error Predictions =
+CALCULATE(
+    [Total Predictions],
+    'pbi_predictions_detail'[error_band] = "High error"
+)
+
+Valid Events =
+CALCULATE(
+    SUM('pbi_event_quality'[total_events]),
+    'pbi_event_quality'[processing_status] = "VALID"
+)
+
+Invalid Events =
+CALCULATE(
+    SUM('pbi_event_quality'[total_events]),
+    'pbi_event_quality'[processing_status] <> "VALID"
+)
+
+Valid Event Rate =
+DIVIDE([Valid Events], [Valid Events] + [Invalid Events])

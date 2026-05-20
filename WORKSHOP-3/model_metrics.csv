@@ -1,0 +1,2 @@
+model_type,mae,rmse,r2,rows,features
+LinearRegressionArtifact,0.4655425025078724,0.596510644525515,0.690065863276571,781,"gdp,family,health,freedom,generosity,corruption"

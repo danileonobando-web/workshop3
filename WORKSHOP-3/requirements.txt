@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+joblib
+kafka-python
+psycopg2-binary
+matplotlib
+seaborn
+jupyter
+pymysql

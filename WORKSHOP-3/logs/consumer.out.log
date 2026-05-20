@@ -1,0 +1,760 @@
+--- Iniciando consumidor de predicciones ---
+Conectado a Kafka. Esperando eventos...
+Switzerland 2015 | real=7.587 predicho=7.186
+Iceland 2015 | real=7.561 predicho=6.912
+Denmark 2015 | real=7.527 predicho=7.084
+Norway 2015 | real=7.522 predicho=7.146
+Canada 2015 | real=7.427 predicho=6.992
+Finland 2015 | real=7.406 predicho=6.930
+Netherlands 2015 | real=7.378 predicho=6.921
+Sweden 2015 | real=7.364 predicho=7.073
+New Zealand 2015 | real=7.286 predicho=7.015
+Australia 2015 | real=7.284 predicho=7.063
+Israel 2015 | real=7.278 predicho=6.248
+Costa Rica 2015 | real=7.226 predicho=6.260
+Austria 2015 | real=7.200 predicho=6.791
+Mexico 2015 | real=7.187 predicho=5.847
+United States 2015 | real=7.119 predicho=6.659
+Brazil 2015 | real=6.983 predicho=5.872
+Luxembourg 2015 | real=6.946 predicho=7.114
+Ireland 2015 | real=6.940 predicho=6.965
+Belgium 2015 | real=6.937 predicho=6.690
+United Arab Emirates 2015 | real=6.901 predicho=6.819
+United Kingdom 2015 | real=6.867 predicho=6.871
+Oman 2015 | real=6.853 predicho=6.584
+Venezuela 2015 | real=6.810 predicho=5.799
+Singapore 2015 | real=6.798 predicho=7.054
+Panama 2015 | real=6.786 predicho=6.103
+Germany 2015 | real=6.750 predicho=6.777
+Chile 2015 | real=6.670 predicho=6.076
+Qatar 2015 | real=6.611 predicho=7.159
+France 2015 | real=6.575 predicho=6.598
+Argentina 2015 | real=6.574 predicho=5.918
+Czech Republic 2015 | real=6.505 predicho=6.054
+Uruguay 2015 | real=6.485 predicho=6.340
+Colombia 2015 | real=6.477 predicho=5.792
+Thailand 2015 | real=6.455 predicho=6.082
+Saudi Arabia 2015 | real=6.411 predicho=6.039
+Spain 2015 | real=6.329 predicho=6.369
+Malta 2015 | real=6.302 predicho=6.661
+Taiwan 2015 | real=6.298 predicho=6.107
+Kuwait 2015 | real=6.295 predicho=6.590
+Suriname 2015 | real=6.269 predicho=5.735
+Trinidad and Tobago 2015 | real=6.168 predicho=6.001
+El Salvador 2015 | real=6.130 predicho=5.295
+Guatemala 2015 | real=6.123 predicho=5.562
+Uzbekistan 2015 | real=6.003 predicho=5.881
+Slovakia 2015 | real=5.995 predicho=5.823
+Japan 2015 | real=5.987 predicho=6.534
+South Korea 2015 | real=5.984 predicho=5.961
+Ecuador 2015 | real=5.975 predicho=5.695
+Bahrain 2015 | real=5.960 predicho=6.317
+Italy 2015 | real=5.948 predicho=5.991
+Bolivia 2015 | real=5.890 predicho=5.287
+Moldova 2015 | real=5.889 predicho=4.889
+Paraguay 2015 | real=5.878 predicho=5.736
+Kazakhstan 2015 | real=5.855 predicho=5.824
+Slovenia 2015 | real=5.848 predicho=6.432
+Lithuania 2015 | real=5.833 predicho=5.488
+Nicaragua 2015 | real=5.828 predicho=5.650
+Peru 2015 | real=5.824 predicho=5.445
+Belarus 2015 | real=5.813 predicho=5.797
+Poland 2015 | real=5.791 predicho=6.112
+Malaysia 2015 | real=5.770 predicho=6.007
+Croatia 2015 | real=5.759 predicho=5.264
+Libya 2015 | real=5.754 predicho=5.795
+Russia 2015 | real=5.716 predicho=5.631
+Jamaica 2015 | real=5.709 predicho=5.561
+North Cyprus 2015 | real=5.695 predicho=6.277
+Cyprus 2015 | real=5.689 predicho=5.976
+Algeria 2015 | real=5.605 predicho=5.280
+Kosovo 2015 | real=5.589 predicho=4.893
+Turkmenistan 2015 | real=5.548 predicho=5.743
+Mauritius 2015 | real=5.477 predicho=5.856
+Hong Kong 2015 | real=5.474 predicho=6.951
+Estonia 2015 | real=5.429 predicho=6.024
+Indonesia 2015 | real=5.399 predicho=5.509
+Vietnam 2015 | real=5.360 predicho=5.480
+Turkey 2015 | real=5.332 predicho=5.363
+Kyrgyzstan 2015 | real=5.286 predicho=5.128
+Nigeria 2015 | real=5.268 predicho=4.370
+Bhutan 2015 | real=5.253 predicho=5.597
+Azerbaijan 2015 | real=5.212 predicho=5.413
+Pakistan 2015 | real=5.194 predicho=4.139
+Jordan 2015 | real=5.192 predicho=5.499
+Montenegro 2015 | real=5.192 predicho=5.174
+China 2015 | real=5.140 predicho=5.629
+Zambia 2015 | real=5.129 predicho=4.633
+Romania 2015 | real=5.124 predicho=5.424
+Serbia 2015 | real=5.123 predicho=5.170
+Portugal 2015 | real=5.102 predicho=6.104
+Latvia 2015 | real=5.098 predicho=5.563
+Philippines 2015 | real=5.073 predicho=5.527
+Somaliland region 2015 | real=5.057 predicho=4.856
+Morocco 2015 | real=5.013 predicho=4.894
+Macedonia 2015 | real=5.007 predicho=5.387
+Mozambique 2015 | real=4.971 predicho=3.881
+Albania 2015 | real=4.959 predicho=5.319
+Bosnia and Herzegovina 2015 | real=4.949 predicho=4.906
+Lesotho 2015 | real=4.898 predicho=4.076
+Dominican Republic 2015 | real=4.885 predicho=5.844
+Laos 2015 | real=4.876 predicho=5.281
+Mongolia 2015 | real=4.874 predicho=5.521
+Swaziland 2015 | real=4.867 predicho=4.341
+Greece 2015 | real=4.857 predicho=5.233
+Lebanon 2015 | real=4.839 predicho=5.478
+Hungary 2015 | real=4.800 predicho=5.677
+Honduras 2015 | real=4.788 predicho=5.105
+Tajikistan 2015 | real=4.786 predicho=4.861
+Tunisia 2015 | real=4.739 predicho=4.911
+Palestinian Territories 2015 | real=4.715 predicho=4.807
+Bangladesh 2015 | real=4.694 predicho=4.479
+Iran 2015 | real=4.686 predicho=5.119
+Ukraine 2015 | real=4.681 predicho=5.160
+Iraq 2015 | real=4.677 predicho=4.692
+South Africa 2015 | real=4.642 predicho=4.935
+Ghana 2015 | real=4.633 predicho=4.515
+Zimbabwe 2015 | real=4.610 predicho=4.171
+Liberia 2015 | real=4.571 predicho=3.861
+India 2015 | real=4.565 predicho=4.551
+Sudan 2015 | real=4.550 predicho=4.253
+Haiti 2015 | real=4.518 predicho=4.183
+Congo (Kinshasa) 2015 | real=4.517 predicho=3.559
+Nepal 2015 | real=4.514 predicho=4.655
+Ethiopia 2015 | real=4.512 predicho=4.271
+Sierra Leone 2015 | real=4.507 predicho=4.008
+Mauritania 2015 | real=4.436 predicho=4.326
+Kenya 2015 | real=4.419 predicho=4.643
+Djibouti 2015 | real=4.369 predicho=4.532
+Armenia 2015 | real=4.350 predicho=4.798
+Botswana 2015 | real=4.332 predicho=4.942
+Myanmar 2015 | real=4.307 predicho=4.725
+Georgia 2015 | real=4.297 predicho=5.085
+Malawi 2015 | real=4.292 predicho=3.662
+Sri Lanka 2015 | real=4.271 predicho=5.698
+Cameroon 2015 | real=4.252 predicho=4.444
+Bulgaria 2015 | real=4.218 predicho=5.470
+Egypt 2015 | real=4.194 predicho=4.741
+Yemen 2015 | real=4.077 predicho=4.387
+Angola 2015 | real=4.033 predicho=4.046
+Mali 2015 | real=3.995 predicho=4.238
+Congo (Brazzaville) 2015 | real=3.989 predicho=4.526
+Comoros 2015 | real=3.956 predicho=4.050
+Uganda 2015 | real=3.931 predicho=4.527
+Senegal 2015 | real=3.904 predicho=4.545
+Gabon 2015 | real=3.896 predicho=5.048
+Niger 2015 | real=3.845 predicho=4.145
+Cambodia 2015 | real=3.819 predicho=5.114
+Tanzania 2015 | real=3.781 predicho=4.371
+Madagascar 2015 | real=3.681 predicho=3.924
+Central African Republic 2015 | real=3.678 predicho=3.304
+Chad 2015 | real=3.667 predicho=3.760
+Guinea 2015 | real=3.656 predicho=3.814
+Ivory Coast 2015 | real=3.655 predicho=4.360
+Burkina Faso 2015 | real=3.587 predicho=4.213
+Afghanistan 2015 | real=3.575 predicho=3.710
+Rwanda 2015 | real=3.465 predicho=4.965
+Benin 2015 | real=3.340 predicho=4.038
+Syria 2015 | real=3.006 predicho=4.678
+Burundi 2015 | real=2.905 predicho=3.153
+Togo 2015 | real=2.839 predicho=3.599
+Denmark 2016 | real=7.526 predicho=6.830
+Switzerland 2016 | real=7.509 predicho=6.937
+Iceland 2016 | real=7.501 predicho=6.705
+Norway 2016 | real=7.498 predicho=6.900
+Finland 2016 | real=7.413 predicho=6.713
+Canada 2016 | real=7.404 predicho=6.740
+Netherlands 2016 | real=7.339 predicho=6.663
+New Zealand 2016 | real=7.334 predicho=6.834
+Australia 2016 | real=7.313 predicho=6.789
+Sweden 2016 | real=7.291 predicho=6.814
+Israel 2016 | real=7.267 predicho=6.043
+Austria 2016 | real=7.119 predicho=6.542
+United States 2016 | real=7.104 predicho=6.424
+Costa Rica 2016 | real=7.087 predicho=5.959
+Puerto Rico 2016 | real=7.039 predicho=6.187
+Germany 2016 | real=6.994 predicho=6.596
+Brazil 2016 | real=6.952 predicho=5.582
+Belgium 2016 | real=6.929 predicho=6.473
+Ireland 2016 | real=6.907 predicho=6.748
+Luxembourg 2016 | real=6.871 predicho=6.902
+Mexico 2016 | real=6.778 predicho=5.478
+Singapore 2016 | real=6.739 predicho=6.875
+United Kingdom 2016 | real=6.725 predicho=6.550
+Chile 2016 | real=6.705 predicho=5.865
+Panama 2016 | real=6.701 predicho=5.874
+Argentina 2016 | real=6.650 predicho=5.721
+Czech Republic 2016 | real=6.596 predicho=5.873
+United Arab Emirates 2016 | real=6.573 predicho=6.539
+Uruguay 2016 | real=6.545 predicho=6.084
+Malta 2016 | real=6.488 predicho=6.478
+Colombia 2016 | real=6.481 predicho=5.488
+France 2016 | real=6.478 predicho=6.246
+Thailand 2016 | real=6.474 predicho=5.843
+Saudi Arabia 2016 | real=6.379 predicho=5.901
+Taiwan 2016 | real=6.379 predicho=5.882
+Qatar 2016 | real=6.375 predicho=6.903
+Spain 2016 | real=6.361 predicho=6.120
+Algeria 2016 | real=6.355 predicho=5.090
+Guatemala 2016 | real=6.324 predicho=5.285
+Suriname 2016 | real=6.269 predicho=5.453
+Kuwait 2016 | real=6.239 predicho=6.132
+Bahrain 2016 | real=6.218 predicho=6.118
+Trinidad and Tobago 2016 | real=6.168 predicho=5.750
+Venezuela 2016 | real=6.084 predicho=5.219
+Slovakia 2016 | real=6.078 predicho=5.550
+El Salvador 2016 | real=6.068 predicho=5.086
+Malaysia 2016 | real=6.005 predicho=5.677
+Nicaragua 2016 | real=5.992 predicho=5.308
+Uzbekistan 2016 | real=5.987 predicho=5.689
+Italy 2016 | real=5.977 predicho=5.714
+Ecuador 2016 | real=5.976 predicho=5.440
+Belize 2016 | real=5.956 predicho=5.102
+Japan 2016 | real=5.921 predicho=6.370
+Kazakhstan 2016 | real=5.919 predicho=5.586
+Moldova 2016 | real=5.897 predicho=4.618
+Russia 2016 | real=5.856 predicho=5.449
+Poland 2016 | real=5.835 predicho=5.836
+South Korea 2016 | real=5.835 predicho=5.686
+Bolivia 2016 | real=5.822 predicho=5.109
+Lithuania 2016 | real=5.813 predicho=5.333
+Belarus 2016 | real=5.802 predicho=5.496
+North Cyprus 2016 | real=5.771 predicho=6.035
+Slovenia 2016 | real=5.768 predicho=6.171
+Peru 2016 | real=5.743 predicho=5.232
+Turkmenistan 2016 | real=5.658 predicho=5.452
+Mauritius 2016 | real=5.648 predicho=5.595
+Libya 2016 | real=5.615 predicho=5.365
+Latvia 2016 | real=5.560 predicho=5.450
+Cyprus 2016 | real=5.546 predicho=5.670
+Paraguay 2016 | real=5.538 predicho=5.476
+Romania 2016 | real=5.528 predicho=5.344
+Estonia 2016 | real=5.517 predicho=5.885
+Jamaica 2016 | real=5.510 predicho=5.309
+Croatia 2016 | real=5.488 predicho=5.162
+Hong Kong 2016 | real=5.458 predicho=6.646
+Somalia 2016 | real=5.440 predicho=3.840
+Kosovo 2016 | real=5.401 predicho=4.625
+Turkey 2016 | real=5.389 predicho=5.272
+Indonesia 2016 | real=5.314 predicho=5.210
+Jordan 2016 | real=5.303 predicho=5.279
+Azerbaijan 2016 | real=5.291 predicho=5.249
+Philippines 2016 | real=5.279 predicho=5.249
+China 2016 | real=5.245 predicho=5.425
+Bhutan 2016 | real=5.196 predicho=5.343
+Kyrgyzstan 2016 | real=5.185 predicho=4.940
+Serbia 2016 | real=5.177 predicho=4.968
+Bosnia and Herzegovina 2016 | real=5.163 predicho=4.731
+Montenegro 2016 | real=5.161 predicho=4.992
+Dominican Republic 2016 | real=5.155 predicho=5.636
+Morocco 2016 | real=5.151 predicho=4.539
+Hungary 2016 | real=5.145 predicho=5.314
+Pakistan 2016 | real=5.132 predicho=4.041
+Lebanon 2016 | real=5.129 predicho=5.241
+Portugal 2016 | real=5.123 predicho=5.871
+Macedonia 2016 | real=5.121 predicho=5.151
+Vietnam 2016 | real=5.061 predicho=5.382
+Somaliland Region 2016 | real=5.057 predicho=4.517
+Tunisia 2016 | real=5.045 predicho=4.671
+Greece 2016 | real=5.033 predicho=5.095
+Tajikistan 2016 | real=4.996 predicho=4.774
+Mongolia 2016 | real=4.907 predicho=5.362
+Laos 2016 | real=4.876 predicho=4.905
+Nigeria 2016 | real=4.875 predicho=4.025
+Honduras 2016 | real=4.871 predicho=4.709
+Iran 2016 | real=4.813 predicho=4.930
+Zambia 2016 | real=4.795 predicho=4.388
+Nepal 2016 | real=4.793 predicho=4.549
+Palestinian Territories 2016 | real=4.754 predicho=4.494
+Albania 2016 | real=4.655 predicho=5.020
+Bangladesh 2016 | real=4.643 predicho=4.379
+Sierra Leone 2016 | real=4.635 predicho=3.659
+Iraq 2016 | real=4.575 predicho=4.897
+Namibia 2016 | real=4.574 predicho=4.932
+Cameroon 2016 | real=4.513 predicho=4.136
+Ethiopia 2016 | real=4.508 predicho=4.028
+South Africa 2016 | real=4.459 predicho=4.913
+Sri Lanka 2016 | real=4.415 predicho=5.572
+India 2016 | real=4.404 predicho=4.506
+Myanmar 2016 | real=4.395 predicho=4.681
+Egypt 2016 | real=4.362 predicho=4.581
+Armenia 2016 | real=4.360 predicho=4.579
+Kenya 2016 | real=4.356 predicho=4.487
+Ukraine 2016 | real=4.324 predicho=4.811
+Ghana 2016 | real=4.276 predicho=4.302
+Congo (Kinshasa) 2016 | real=4.272 predicho=3.471
+Georgia 2016 | real=4.252 predicho=4.761
+Congo (Brazzaville) 2016 | real=4.236 predicho=4.380
+Senegal 2016 | real=4.219 predicho=4.354
+Bulgaria 2016 | real=4.217 predicho=5.189
+Mauritania 2016 | real=4.201 predicho=4.201
+Zimbabwe 2016 | real=4.193 predicho=3.804
+Malawi 2016 | real=4.156 predicho=3.602
+Sudan 2016 | real=4.139 predicho=3.939
+Gabon 2016 | real=4.121 predicho=4.836
+Mali 2016 | real=4.073 predicho=3.960
+Haiti 2016 | real=4.028 predicho=3.596
+Botswana 2016 | real=3.974 predicho=5.172
+Comoros 2016 | real=3.956 predicho=3.749
+Ivory Coast 2016 | real=3.916 predicho=4.063
+Cambodia 2016 | real=3.907 predicho=4.806
+Angola 2016 | real=3.866 predicho=3.709
+Niger 2016 | real=3.856 predicho=3.915
+South Sudan 2016 | real=3.832 predicho=3.448
+Chad 2016 | real=3.763 predicho=3.442
+Burkina Faso 2016 | real=3.739 predicho=3.958
+Uganda 2016 | real=3.739 predicho=4.281
+Yemen 2016 | real=3.724 predicho=3.953
+Madagascar 2016 | real=3.695 predicho=3.642
+Tanzania 2016 | real=3.666 predicho=4.329
+Liberia 2016 | real=3.622 predicho=3.504
+Guinea 2016 | real=3.607 predicho=3.589
+Rwanda 2016 | real=3.515 predicho=4.712
+Benin 2016 | real=3.484 predicho=3.696
+Afghanistan 2016 | real=3.360 predicho=3.326
+Togo 2016 | real=3.303 predicho=3.509
+Syria 2016 | real=3.069 predicho=4.273
+Burundi 2016 | real=2.905 predicho=2.876
+Norway 2017 | real=7.537 predicho=7.246
+Denmark 2017 | real=7.522 predicho=7.172
+Iceland 2017 | real=7.504 predicho=7.113
+Switzerland 2017 | real=7.494 predicho=7.250
+Finland 2017 | real=7.469 predicho=7.079
+Netherlands 2017 | real=7.377 predicho=7.016
+Canada 2017 | real=7.316 predicho=7.089
+New Zealand 2017 | real=7.314 predicho=7.147
+Sweden 2017 | real=7.284 predicho=7.158
+Australia 2017 | real=7.284 predicho=7.138
+Israel 2017 | real=7.213 predicho=6.399
+Costa Rica 2017 | real=7.079 predicho=6.308
+Austria 2017 | real=7.006 predicho=6.893
+United States 2017 | real=6.993 predicho=6.736
+Ireland 2017 | real=6.977 predicho=7.114
+Germany 2017 | real=6.951 predicho=6.926
+Belgium 2017 | real=6.891 predicho=6.824
+Luxembourg 2017 | real=6.863 predicho=7.287
+United Kingdom 2017 | real=6.714 predicho=6.871
+Chile 2017 | real=6.652 predicho=6.143
+United Arab Emirates 2017 | real=6.648 predicho=6.946
+Brazil 2017 | real=6.635 predicho=5.908
+Czech Republic 2017 | real=6.609 predicho=6.315
+Argentina 2017 | real=6.599 predicho=6.115
+Mexico 2017 | real=6.578 predicho=5.877
+Singapore 2017 | real=6.572 predicho=7.363
+Malta 2017 | real=6.527 predicho=6.856
+Uruguay 2017 | real=6.454 predicho=6.407
+Guatemala 2017 | real=6.454 predicho=5.624
+Panama 2017 | real=6.452 predicho=6.262
+France 2017 | real=6.442 predicho=6.563
+Thailand 2017 | real=6.424 predicho=6.274
+Taiwan Province of China 2017 | real=6.422 predicho=6.294
+Spain 2017 | real=6.403 predicho=6.520
+Qatar 2017 | real=6.375 predicho=7.244
+Colombia 2017 | real=6.357 predicho=5.830
+Saudi Arabia 2017 | real=6.344 predicho=6.331
+Trinidad and Tobago 2017 | real=6.168 predicho=6.106
+Kuwait 2017 | real=6.105 predicho=6.520
+Slovakia 2017 | real=6.098 predicho=5.993
+Bahrain 2017 | real=6.087 predicho=6.524
+Malaysia 2017 | real=6.084 predicho=5.992
+Nicaragua 2017 | real=6.071 predicho=5.574
+Ecuador 2017 | real=6.008 predicho=5.833
+El Salvador 2017 | real=6.003 predicho=5.458
+Poland 2017 | real=5.973 predicho=6.286
+Uzbekistan 2017 | real=5.971 predicho=6.076
+Italy 2017 | real=5.964 predicho=6.148
+Russia 2017 | real=5.963 predicho=5.816
+Belize 2017 | real=5.956 predicho=5.450
+Japan 2017 | real=5.920 predicho=6.713
+Lithuania 2017 | real=5.902 predicho=5.704
+Algeria 2017 | real=5.872 predicho=5.371
+Latvia 2017 | real=5.850 predicho=5.860
+South Korea 2017 | real=5.838 predicho=6.034
+Moldova 2017 | real=5.838 predicho=5.010
+Romania 2017 | real=5.825 predicho=5.837
+Bolivia 2017 | real=5.823 predicho=5.492
+Turkmenistan 2017 | real=5.822 predicho=5.874
+Kazakhstan 2017 | real=5.819 predicho=6.056
+North Cyprus 2017 | real=5.810 predicho=6.367
+Slovenia 2017 | real=5.758 predicho=6.553
+Peru 2017 | real=5.715 predicho=5.660
+Mauritius 2017 | real=5.629 predicho=5.962
+Cyprus 2017 | real=5.621 predicho=6.080
+Estonia 2017 | real=5.611 predicho=6.344
+Belarus 2017 | real=5.569 predicho=5.805
+Libya 2017 | real=5.525 predicho=5.756
+Turkey 2017 | real=5.500 predicho=5.692
+Paraguay 2017 | real=5.493 predicho=5.807
+Hong Kong S.A.R., China 2017 | real=5.472 predicho=6.937
+Philippines 2017 | real=5.430 predicho=5.587
+Serbia 2017 | real=5.395 predicho=5.403
+Jordan 2017 | real=5.336 predicho=5.625
+Hungary 2017 | real=5.324 predicho=5.612
+Jamaica 2017 | real=5.311 predicho=5.755
+Croatia 2017 | real=5.293 predicho=5.497
+Kosovo 2017 | real=5.279 predicho=5.199
+China 2017 | real=5.273 predicho=5.781
+Pakistan 2017 | real=5.269 predicho=4.494
+Indonesia 2017 | real=5.262 predicho=5.637
+Venezuela 2017 | real=5.250 predicho=5.416
+Montenegro 2017 | real=5.237 predicho=5.468
+Morocco 2017 | real=5.235 predicho=5.087
+Azerbaijan 2017 | real=5.234 predicho=5.614
+Dominican Republic 2017 | real=5.230 predicho=5.998
+Greece 2017 | real=5.227 predicho=5.546
+Lebanon 2017 | real=5.225 predicho=5.560
+Portugal 2017 | real=5.195 predicho=6.280
+Bosnia and Herzegovina 2017 | real=5.182 predicho=5.254
+Honduras 2017 | real=5.181 predicho=5.155
+Macedonia 2017 | real=5.175 predicho=5.565
+Somalia 2017 | real=5.151 predicho=4.168
+Vietnam 2017 | real=5.074 predicho=5.748
+Nigeria 2017 | real=5.074 predicho=4.640
+Tajikistan 2017 | real=5.041 predicho=5.232
+Bhutan 2017 | real=5.011 predicho=5.744
+Kyrgyzstan 2017 | real=5.004 predicho=5.374
+Nepal 2017 | real=4.962 predicho=5.040
+Mongolia 2017 | real=4.955 predicho=5.737
+South Africa 2017 | real=4.829 predicho=5.317
+Tunisia 2017 | real=4.805 predicho=5.120
+Palestinian Territories 2017 | real=4.775 predicho=4.950
+Egypt 2017 | real=4.735 predicho=5.118
+Bulgaria 2017 | real=4.714 predicho=5.748
+Sierra Leone 2017 | real=4.709 predicho=3.949
+Cameroon 2017 | real=4.695 predicho=4.407
+Iran 2017 | real=4.692 predicho=5.223
+Albania 2017 | real=4.644 predicho=5.372
+Bangladesh 2017 | real=4.608 predicho=4.885
+Namibia 2017 | real=4.574 predicho=5.272
+Kenya 2017 | real=4.553 predicho=4.832
+Mozambique 2017 | real=4.550 predicho=4.212
+Myanmar 2017 | real=4.545 predicho=5.134
+Senegal 2017 | real=4.535 predicho=4.780
+Zambia 2017 | real=4.514 predicho=4.747
+Iraq 2017 | real=4.497 predicho=5.223
+Gabon 2017 | real=4.465 predicho=5.215
+Ethiopia 2017 | real=4.460 predicho=4.490
+Sri Lanka 2017 | real=4.440 predicho=5.988
+Armenia 2017 | real=4.376 predicho=4.967
+India 2017 | real=4.315 predicho=4.987
+Mauritania 2017 | real=4.292 predicho=4.444
+Congo (Brazzaville) 2017 | real=4.291 predicho=4.747
+Georgia 2017 | real=4.286 predicho=5.065
+Congo (Kinshasa) 2017 | real=4.280 predicho=3.926
+Mali 2017 | real=4.190 predicho=4.433
+Ivory Coast 2017 | real=4.180 predicho=4.388
+Cambodia 2017 | real=4.168 predicho=5.238
+Sudan 2017 | real=4.139 predicho=4.251
+Ghana 2017 | real=4.120 predicho=4.634
+Ukraine 2017 | real=4.096 predicho=5.107
+Uganda 2017 | real=4.081 predicho=4.520
+Burkina Faso 2017 | real=4.032 predicho=4.265
+Niger 2017 | real=4.028 predicho=4.178
+Malawi 2017 | real=3.970 predicho=4.098
+Chad 2017 | real=3.936 predicho=3.755
+Zimbabwe 2017 | real=3.875 predicho=4.270
+Lesotho 2017 | real=3.808 predicho=4.334
+Angola 2017 | real=3.795 predicho=3.999
+Afghanistan 2017 | real=3.794 predicho=3.586
+Botswana 2017 | real=3.766 predicho=5.506
+Benin 2017 | real=3.657 predicho=4.004
+Madagascar 2017 | real=3.644 predicho=4.060
+Haiti 2017 | real=3.603 predicho=3.695
+Yemen 2017 | real=3.593 predicho=4.320
+South Sudan 2017 | real=3.591 predicho=3.672
+Liberia 2017 | real=3.533 predicho=3.891
+Guinea 2017 | real=3.507 predicho=3.994
+Togo 2017 | real=3.495 predicho=3.878
+Rwanda 2017 | real=3.471 predicho=5.019
+Syria 2017 | real=3.462 predicho=4.322
+Tanzania 2017 | real=3.349 predicho=4.703
+Burundi 2017 | real=2.905 predicho=3.187
+Central African Republic 2017 | real=2.693 predicho=2.825
+Finland 2018 | real=7.632 predicho=7.150
+Norway 2018 | real=7.594 predicho=7.271
+Denmark 2018 | real=7.555 predicho=7.232
+Iceland 2018 | real=7.495 predicho=7.120
+Switzerland 2018 | real=7.487 predicho=7.257
+Netherlands 2018 | real=7.441 predicho=7.041
+Canada 2018 | real=7.328 predicho=7.079
+New Zealand 2018 | real=7.324 predicho=7.162
+Sweden 2018 | real=7.314 predicho=7.172
+Australia 2018 | real=7.272 predicho=7.150
+United Kingdom 2018 | real=7.190 predicho=6.434
+Austria 2018 | real=7.139 predicho=6.925
+Costa Rica 2018 | real=7.072 predicho=6.366
+Ireland 2018 | real=6.977 predicho=7.152
+Germany 2018 | real=6.965 predicho=6.874
+Belgium 2018 | real=6.927 predicho=6.837
+Luxembourg 2018 | real=6.910 predicho=7.255
+United States 2018 | real=6.886 predicho=6.706
+Israel 2018 | real=6.814 predicho=6.865
+Czech Republic 2018 | real=6.711 predicho=6.429
+Malta 2018 | real=6.627 predicho=6.890
+France 2018 | real=6.489 predicho=6.629
+Mexico 2018 | real=6.488 predicho=5.909
+Chile 2018 | real=6.476 predicho=6.060
+Taiwan 2018 | real=6.441 predicho=6.399
+Panama 2018 | real=6.430 predicho=6.288
+Brazil 2018 | real=6.419 predicho=5.939
+Argentina 2018 | real=6.388 predicho=6.179
+Guatemala 2018 | real=6.382 predicho=5.696
+Uruguay 2018 | real=6.379 predicho=6.417
+Qatar 2018 | real=6.374 predicho=6.928
+Saudi Arabia 2018 | real=6.371 predicho=6.222
+Singapore 2018 | real=6.343 predicho=7.432
+Malaysia 2018 | real=6.322 predicho=5.792
+Spain 2018 | real=6.310 predicho=6.535
+Colombia 2018 | real=6.260 predicho=5.855
+Trinidad & Tobago 2018 | real=6.192 predicho=6.141
+Slovakia 2018 | real=6.173 predicho=6.056
+El Salvador 2018 | real=6.167 predicho=5.477
+Nicaragua 2018 | real=6.141 predicho=5.672
+Poland 2018 | real=6.123 predicho=6.300
+Bahrain 2018 | real=6.105 predicho=6.470
+Uzbekistan 2018 | real=6.096 predicho=6.245
+Kuwait 2018 | real=6.083 predicho=6.425
+Thailand 2018 | real=6.072 predicho=6.240
+Italy 2018 | real=6.000 predicho=6.199
+Ecuador 2018 | real=5.973 predicho=5.943
+Belize 2018 | real=5.956 predicho=5.437
+Lithuania 2018 | real=5.952 predicho=5.914
+Slovenia 2018 | real=5.948 predicho=6.619
+Romania 2018 | real=5.945 predicho=5.927
+Latvia 2018 | real=5.933 predicho=5.853
+Japan 2018 | real=5.915 predicho=6.750
+Mauritius 2018 | real=5.891 predicho=6.152
+Jamaica 2018 | real=5.890 predicho=5.887
+South Korea 2018 | real=5.875 predicho=5.979
+Northern Cyprus 2018 | real=5.835 predicho=6.364
+Russia 2018 | real=5.810 predicho=5.797
+Kazakhstan 2018 | real=5.790 predicho=6.048
+Cyprus 2018 | real=5.762 predicho=6.152
+Bolivia 2018 | real=5.752 predicho=5.486
+Estonia 2018 | real=5.739 predicho=6.418
+Paraguay 2018 | real=5.681 predicho=5.834
+Peru 2018 | real=5.663 predicho=5.737
+Kosovo 2018 | real=5.662 predicho=5.460
+Moldova 2018 | real=5.640 predicho=4.977
+Turkmenistan 2018 | real=5.636 predicho=5.689
+Hungary 2018 | real=5.620 predicho=5.706
+Libya 2018 | real=5.566 predicho=5.755
+Philippines 2018 | real=5.524 predicho=5.668
+Honduras 2018 | real=5.504 predicho=5.296
+Belarus 2018 | real=5.483 predicho=5.800
+Turkey 2018 | real=5.483 predicho=5.799
+Pakistan 2018 | real=5.472 predicho=4.650
+Hong Kong 2018 | real=5.430 predicho=6.921
+Portugal 2018 | real=5.410 predicho=6.393
+Serbia 2018 | real=5.398 predicho=5.523
+Greece 2018 | real=5.358 predicho=5.528
+Lebanon 2018 | real=5.358 predicho=5.941
+Montenegro 2018 | real=5.347 predicho=5.532
+Croatia 2018 | real=5.321 predicho=5.712
+Dominican Republic 2018 | real=5.302 predicho=5.986
+Algeria 2018 | real=5.295 predicho=5.095
+Morocco 2018 | real=5.254 predicho=5.161
+China 2018 | real=5.246 predicho=6.005
+Azerbaijan 2018 | real=5.201 predicho=5.611
+Tajikistan 2018 | real=5.199 predicho=4.802
+Macedonia 2018 | real=5.185 predicho=5.609
+Jordan 2018 | real=5.161 predicho=5.601
+Nigeria 2018 | real=5.155 predicho=4.603
+Kyrgyzstan 2018 | real=5.131 predicho=5.447
+Bosnia and Herzegovina 2018 | real=5.129 predicho=5.334
+Mongolia 2018 | real=5.125 predicho=5.632
+Vietnam 2018 | real=5.103 predicho=5.843
+Indonesia 2018 | real=5.093 predicho=5.638
+Bhutan 2018 | real=5.082 predicho=5.709
+Somalia 2018 | real=4.982 predicho=4.232
+Cameroon 2018 | real=4.975 predicho=4.411
+Bulgaria 2018 | real=4.933 predicho=5.792
+Nepal 2018 | real=4.880 predicho=5.165
+Venezuela 2018 | real=4.806 predicho=5.316
+Gabon 2018 | real=4.758 predicho=5.165
+Palestinian Territories 2018 | real=4.743 predicho=4.962
+South Africa 2018 | real=4.724 predicho=5.430
+Iran 2018 | real=4.707 predicho=5.582
+Ivory Coast 2018 | real=4.671 predicho=4.331
+Ghana 2018 | real=4.657 predicho=4.731
+Senegal 2018 | real=4.631 predicho=4.716
+Laos 2018 | real=4.623 predicho=5.401
+Tunisia 2018 | real=4.592 predicho=5.085
+Albania 2018 | real=4.586 predicho=5.408
+Sierra Leone 2018 | real=4.571 predicho=3.733
+Congo (Brazzaville) 2018 | real=4.559 predicho=4.783
+Bangladesh 2018 | real=4.500 predicho=5.135
+Sri Lanka 2018 | real=4.471 predicho=5.943
+Iraq 2018 | real=4.456 predicho=5.165
+Mali 2018 | real=4.447 predicho=4.311
+Namibia 2018 | real=4.441 predicho=5.309
+Cambodia 2018 | real=4.433 predicho=5.323
+Burkina Faso 2018 | real=4.424 predicho=4.273
+Egypt 2018 | real=4.419 predicho=5.103
+Mozambique 2018 | real=4.417 predicho=4.298
+Kenya 2018 | real=4.410 predicho=4.967
+Zambia 2018 | real=4.377 predicho=4.808
+Mauritania 2018 | real=4.356 predicho=4.335
+Ethiopia 2018 | real=4.350 predicho=4.582
+Georgia 2018 | real=4.340 predicho=5.043
+Armenia 2018 | real=4.321 predicho=5.001
+Myanmar 2018 | real=4.308 predicho=5.518
+Chad 2018 | real=4.301 predicho=3.692
+Congo (Kinshasa) 2018 | real=4.245 predicho=3.947
+India 2018 | real=4.190 predicho=5.034
+Niger 2018 | real=4.166 predicho=3.990
+Uganda 2018 | real=4.161 predicho=4.447
+Benin 2018 | real=4.141 predicho=3.955
+Sudan 2018 | real=4.139 predicho=4.219
+Ukraine 2018 | real=4.103 predicho=5.082
+Togo 2018 | real=3.999 predicho=3.942
+Guinea 2018 | real=3.964 predicho=4.139
+Lesotho 2018 | real=3.808 predicho=4.430
+Angola 2018 | real=3.795 predicho=4.145
+Madagascar 2018 | real=3.774 predicho=4.061
+Zimbabwe 2018 | real=3.692 predicho=4.412
+Afghanistan 2018 | real=3.632 predicho=3.480
+Botswana 2018 | real=3.590 predicho=5.516
+Malawi 2018 | real=3.587 predicho=4.137
+Haiti 2018 | real=3.582 predicho=3.667
+Liberia 2018 | real=3.495 predicho=3.988
+Syria 2018 | real=3.462 predicho=4.233
+Rwanda 2018 | real=3.408 predicho=5.094
+Yemen 2018 | real=3.355 predicho=4.300
+Tanzania 2018 | real=3.303 predicho=4.767
+South Sudan 2018 | real=3.254 predicho=3.549
+Central African Republic 2018 | real=3.083 predicho=2.852
+Burundi 2018 | real=2.905 predicho=3.157
+Finland 2019 | real=7.769 predicho=7.169
+Denmark 2019 | real=7.600 predicho=7.258
+Norway 2019 | real=7.554 predicho=7.376
+Iceland 2019 | real=7.494 predicho=7.131
+Netherlands 2019 | real=7.488 predicho=7.121
+Switzerland 2019 | real=7.480 predicho=7.282
+Sweden 2019 | real=7.343 predicho=7.166
+New Zealand 2019 | real=7.307 predicho=7.200
+Canada 2019 | real=7.278 predicho=7.165
+Austria 2019 | real=7.246 predicho=6.964
+Australia 2019 | real=7.228 predicho=7.159
+Costa Rica 2019 | real=7.167 predicho=6.437
+Israel 2019 | real=7.139 predicho=6.510
+Luxembourg 2019 | real=7.090 predicho=7.234
+United Kingdom 2019 | real=7.054 predicho=6.895
+Ireland 2019 | real=7.021 predicho=7.181
+Germany 2019 | real=6.985 predicho=6.891
+Belgium 2019 | real=6.923 predicho=6.792
+United States 2019 | real=6.892 predicho=6.646
+Czech Republic 2019 | real=6.852 predicho=6.406
+United Arab Emirates 2019 | real=6.825 predicho=6.810
+Malta 2019 | real=6.726 predicho=6.939
+Mexico 2019 | real=6.595 predicho=6.027
+France 2019 | real=6.592 predicho=6.714
+Taiwan 2019 | real=6.446 predicho=6.414
+Chile 2019 | real=6.444 predicho=6.131
+Guatemala 2019 | real=6.436 predicho=5.783
+Saudi Arabia 2019 | real=6.375 predicho=6.353
+Qatar 2019 | real=6.374 predicho=6.952
+Spain 2019 | real=6.354 predicho=6.524
+Panama 2019 | real=6.321 predicho=6.375
+Brazil 2019 | real=6.300 predicho=5.924
+Uruguay 2019 | real=6.293 predicho=6.437
+Singapore 2019 | real=6.262 predicho=7.531
+El Salvador 2019 | real=6.253 predicho=5.615
+Italy 2019 | real=6.223 predicho=6.266
+Bahrain 2019 | real=6.199 predicho=6.614
+Slovakia 2019 | real=6.198 predicho=6.168
+Trinidad & Tobago 2019 | real=6.192 predicho=6.192
+Poland 2019 | real=6.182 predicho=6.344
+Uzbekistan 2019 | real=6.174 predicho=6.258
+Lithuania 2019 | real=6.149 predicho=6.016
+Colombia 2019 | real=6.125 predicho=6.016
+Slovenia 2019 | real=6.118 predicho=6.681
+Nicaragua 2019 | real=6.105 predicho=5.722
+Kosovo 2019 | real=6.100 predicho=5.756
+Argentina 2019 | real=6.086 predicho=6.187
+Romania 2019 | real=6.070 predicho=6.002
+Cyprus 2019 | real=6.046 predicho=6.346
+Ecuador 2019 | real=6.028 predicho=6.005
+Kuwait 2019 | real=6.021 predicho=6.517
+Thailand 2019 | real=6.008 predicho=6.290
+Latvia 2019 | real=5.940 predicho=5.912
+South Korea 2019 | real=5.895 predicho=5.997
+Estonia 2019 | real=5.893 predicho=6.527
+Jamaica 2019 | real=5.890 predicho=5.930
+Mauritius 2019 | real=5.888 predicho=6.197
+Japan 2019 | real=5.886 predicho=6.697
+Honduras 2019 | real=5.860 predicho=5.690
+Kazakhstan 2019 | real=5.809 predicho=6.104
+Bolivia 2019 | real=5.779 predicho=5.605
+Hungary 2019 | real=5.758 predicho=5.773
+Paraguay 2019 | real=5.743 predicho=5.992
+Northern Cyprus 2019 | real=5.718 predicho=6.480
+Peru 2019 | real=5.697 predicho=5.877
+Portugal 2019 | real=5.693 predicho=6.489
+Pakistan 2019 | real=5.653 predicho=4.822
+Russia 2019 | real=5.648 predicho=5.877
+Philippines 2019 | real=5.631 predicho=5.733
+Serbia 2019 | real=5.603 predicho=5.759
+Moldova 2019 | real=5.529 predicho=5.194
+Libya 2019 | real=5.525 predicho=5.814
+Montenegro 2019 | real=5.523 predicho=5.713
+Tajikistan 2019 | real=5.467 predicho=5.176
+Croatia 2019 | real=5.432 predicho=5.900
+Hong Kong 2019 | real=5.430 predicho=6.929
+Dominican Republic 2019 | real=5.425 predicho=6.063
+Bosnia and Herzegovina 2019 | real=5.386 predicho=5.483
+Turkey 2019 | real=5.373 predicho=5.759
+Malaysia 2019 | real=5.339 predicho=6.174
+Belarus 2019 | real=5.323 predicho=5.791
+Greece 2019 | real=5.287 predicho=5.563
+Mongolia 2019 | real=5.285 predicho=5.667
+North Macedonia 2019 | real=5.274 predicho=5.768
+Nigeria 2019 | real=5.265 predicho=4.767
+Kyrgyzstan 2019 | real=5.261 predicho=5.591
+Turkmenistan 2019 | real=5.247 predicho=5.875
+Algeria 2019 | real=5.211 predicho=5.247
+Morocco 2019 | real=5.208 predicho=5.252
+Azerbaijan 2019 | real=5.208 predicho=5.709
+Lebanon 2019 | real=5.197 predicho=5.481
+Indonesia 2019 | real=5.192 predicho=5.772
+China 2019 | real=5.191 predicho=6.039
+Vietnam 2019 | real=5.175 predicho=5.907
+Bhutan 2019 | real=5.082 predicho=5.680
+Cameroon 2019 | real=5.044 predicho=4.506
+Bulgaria 2019 | real=5.011 predicho=5.883
+Ghana 2019 | real=4.996 predicho=4.753
+Ivory Coast 2019 | real=4.944 predicho=4.316
+Nepal 2019 | real=4.913 predicho=5.223
+Jordan 2019 | real=4.906 predicho=5.655
+Benin 2019 | real=4.883 predicho=4.085
+Congo (Brazzaville) 2019 | real=4.812 predicho=4.768
+Gabon 2019 | real=4.799 predicho=5.317
+Laos 2019 | real=4.796 predicho=5.461
+South Africa 2019 | real=4.722 predicho=5.393
+Albania 2019 | real=4.719 predicho=5.515
+Venezuela 2019 | real=4.707 predicho=5.466
+Cambodia 2019 | real=4.700 predicho=5.447
+Palestinian Territories 2019 | real=4.696 predicho=5.019
+Senegal 2019 | real=4.681 predicho=4.740
+Somalia 2019 | real=4.668 predicho=4.226
+Namibia 2019 | real=4.639 predicho=5.293
+Niger 2019 | real=4.628 predicho=4.007
+Burkina Faso 2019 | real=4.587 predicho=4.317
+Armenia 2019 | real=4.559 predicho=5.336
+Iran 2019 | real=4.548 predicho=5.542
+Guinea 2019 | real=4.534 predicho=4.309
+Georgia 2019 | real=4.519 predicho=5.178
+Gambia 2019 | real=4.516 predicho=4.547
+Kenya 2019 | real=4.509 predicho=4.990
+Mauritania 2019 | real=4.490 predicho=4.424
+Mozambique 2019 | real=4.466 predicho=4.554
+Tunisia 2019 | real=4.461 predicho=5.166
+Bangladesh 2019 | real=4.456 predicho=5.319
+Iraq 2019 | real=4.437 predicho=5.148
+Congo (Kinshasa) 2019 | real=4.418 predicho=4.093
+Mali 2019 | real=4.390 predicho=4.369
+Sierra Leone 2019 | real=4.374 predicho=3.992
+Sri Lanka 2019 | real=4.366 predicho=5.932
+Myanmar 2019 | real=4.360 predicho=5.604
+Chad 2019 | real=4.350 predicho=3.754
+Ukraine 2019 | real=4.332 predicho=5.276
